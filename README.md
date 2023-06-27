@@ -19,4 +19,5 @@ The Contact App is built using the following technologies:
 - **Frontend**: Xml
 - **Backend**: Java
 - **Database**: SQLITE
+[Download Debug APK](app-debug.apk)
 
