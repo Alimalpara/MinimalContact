@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MinimalContact</string>
+    <string name="btn_text_splash">Get Started</string>
+
+    <string name="searchhint">Search contact</string>
+    <string name="createContact">Create new contact</string>
+    <string name="save">Save</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+
+
+</resources>

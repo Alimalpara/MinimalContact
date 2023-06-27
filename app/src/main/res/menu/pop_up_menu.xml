@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<menu xmlns:android = "http://schemas.android.com/apk/res/android">
+    <item
+        android:id = "@+id/edit1"
+        android:title = "@string/Edit" />
+    <item
+        android:id = "@+id/delete1"
+        android:title = "@string/Delete"/>
+
+</menu>
